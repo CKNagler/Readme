@@ -1,11 +1,15 @@
-# Full Stack Development with Mern
-<br>
-<p>I am on a journey for 32 weeks learning how to code and develop for Full Stack. Here I hope to highlight success and challenges, so I can showcase my ability to learn and overcome. I desire to grow and stretch my mind.</p>
-<br>
-<h2>Personal Goals</h2>
-<ul>
-  <li>Learn Full Stack</li>
-  <li>Earn a Professional Certification</li>
-  <li>Learn to code clean</li>
-  <li>Start a career that is rewarding</li>
-</ul>
+
+# Chris Nagler
+
+I am new to coding in the fact that I have never known how to code properly and utilize all of the available tools. I used to use GUI website updates when I was a former IT worker at my church in FL.
+
+## 🔗 Links
+[![portfolio](https://github.com/CKNagler)](https://katherineoelsner.com/)
+[![linkedin](https://www.linkedin.com/in/chris-nagler-217bbb252/)](https://www.linkedin.com/)
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
